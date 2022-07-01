@@ -1,0 +1,114 @@
+.title {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.banner {
+    color: rgba(217, 199, 228, 0.864);
+}
+
+.sub {
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 5%;
+    font-size: x-large;
+}
+
+.lilsub {
+    font-family: sans-serif;
+    font-weight: normal;
+    padding-left: 5%;
+    font-size: larger;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.headshot {
+    padding-left: 10%;
+    padding-top: 2.5%;
+}
+
+.intro {
+    padding-left: 5%;
+    padding-right: 10%;
+    font-size: x-large;
+    font-family: monospace;
+}
+
+header {
+    background-color: rgba(217, 199, 228, 0.864);
+}
+
+.social {
+    padding-left: 5%;
+    padding-top: 2.1%;
+    padding-right: 5%;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.info {
+    padding-left: 5%;
+    padding-top: 2.1%;
+    padding-right: 5%;
+    
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: rgb(98, 50, 129);
+}
+.containerb {
+display: flex;
+justify-content: flex-start;
+}
+
+#figma {
+    padding-left: 5%;
+}
+
+.containerc {
+    display: flex;
+    justify-content: space-between;
+}
+
+#scratch {
+    padding-right: 5%;
+}
+
+.containerd {
+    display: flex;
+    justify-content: space-between;
+}
+
+#pica {
+    padding-left: 5%;
+}
+
+#picb {
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+
+#picc {
+    padding-right: 5%;
+}
+
+#e1t1button {
+    text-decoration: none;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.recipe {
+    font-family: monospace;
+    font-size:large
+}
